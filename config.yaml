@@ -1,0 +1,10 @@
+NUM_IMG: -1
+INSTANCE_PER_IMAGE: 1
+SECS_PER_IMG: 5
+VIS: False
+
+DATA_PATH: 'data'
+DB_FNAME: 'dset.h5'
+
+OUTPUT_FILE_1: './results/synthText_1.h5'
+OUTPUT_FILE_2: './results/synthText_2.h5'
